@@ -1,2 +1,2 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# Car safety app
+A simulator to test reliability of different cars.
